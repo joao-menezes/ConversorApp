@@ -2,7 +2,7 @@ from dataclasses import dataclass
 
 @dataclass
 class AppConstants:
-    WINDOW_TITLE: str = "Conversor de Mídia + Download"
+    WINDOW_TITLE: str = "StreamMate"
     WINDOW_SIZE: str = "800x550"
     GITHUB_URL: str = "https://github.com/joao-menezes"
     ICON_PATH: str = "./images/icons8-github-48.png"
